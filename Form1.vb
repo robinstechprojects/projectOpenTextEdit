@@ -42,7 +42,7 @@ Public Class Form1
     End Sub
 
     Private Sub ToolStripMenuItem2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ToolStripMenuItem2.Click
-        MsgBox("Entwickelt von Robin S. ©2014")
+        MsgBox("Entwickelt von Robin S. ©2014 -Version Alpha 0.0.3-")
     End Sub
 
     Private Sub SaveFileDialog1_FileOk(ByVal sender As System.Object, ByVal e As System.ComponentModel.CancelEventArgs) Handles SaveFileDialog1.FileOk
